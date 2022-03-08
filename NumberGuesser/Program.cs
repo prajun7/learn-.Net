@@ -17,7 +17,7 @@ namespace NumberGuesser
             {
 
                 // Init correct number
-                //int correctNumber = 7;
+                // int correctNumber = 7;
 
                 // Create a new Random object
                 Random random = new Random();
