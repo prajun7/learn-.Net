@@ -1,6 +1,6 @@
 # learn .NET
 
-Learing the .NET framework from beginning.<br>
+Learning the .NET framework.<br>
 Progress so far,<br>
 
 - Created Number Guesser (Simple project to guess the number)<br>
