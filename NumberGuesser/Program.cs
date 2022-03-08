@@ -101,7 +101,7 @@ namespace NumberGuesser
         // Get and display app info
         static void GetAppInfo()
         {
-            // Set app vars
+            // Set app variables
             string appName = "Number Guesser";
             string appVersion = "1.0.0";
             string appAuthor = "Prajun Trital";
