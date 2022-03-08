@@ -1,7 +1,19 @@
 # learn .NET
 
 Learning the .NET framework.<br>
-[Let's Start](https://www.youtube.com/watch?v=ravLFzIguCM)<br>
+Watch this 100sec video to install/run .NET, [Let's Start](https://www.youtube.com/watch?v=ravLFzIguCM)<br>
+To [Install](https://dotnet.microsoft.com/en-us/download) .NET<br>
+
+After installing use the following command in new folder,
+```
+dotnet new console
+```
+
+To execute the code use,
+```
+dotnet run
+```
+
 Progress so far,<br>
 
 - Created Number Guesser (Simple project to guess the number)<br>
